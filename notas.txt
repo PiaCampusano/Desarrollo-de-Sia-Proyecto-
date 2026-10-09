@@ -1,1 +1,2 @@
 Práctica de Git: agregar login.
+Este cambio fue realizado directamente en GitHub.
